@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -1.5,
+        "lat": 38
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "nubes dispersas",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 284.96,
+        "feels_like": 283.58,
+        "temp_min": 281.84,
+        "temp_max": 286.97,
+        "pressure": 1026,
+        "humidity": 53,
+        "sea_level": 1026,
+        "grnd_level": 983
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.93,
+        "deg": 300,
+        "gust": 2.6
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1645084520,
+    "sys": {
+        "type": 2,
+        "id": 2009910,
+        "country": "ES",
+        "sunrise": 1645080842,
+        "sunset": 1645119978
+    },
+    "timezone": 3600,
+    "id": 2513413,
+    "name": "Murcia",
+    "cod": 200
+}
