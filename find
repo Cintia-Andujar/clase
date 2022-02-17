@@ -1,0 +1,196 @@
+{
+    "message": "accurate",
+    "cod": "200",
+    "count": 5,
+    "list": [
+        {
+            "id": 2513413,
+            "name": "Región de Murcia",
+            "coord": {
+                "lat": 38,
+                "lon": -1.5
+            },
+            "main": {
+                "temp": 283.28,
+                "feels_like": 281.84,
+                "temp_min": 280.84,
+                "temp_max": 286.42,
+                "pressure": 1026,
+                "humidity": 57,
+                "sea_level": 1026,
+                "grnd_level": 983
+            },
+            "dt": 1645081543,
+            "wind": {
+                "speed": 2.97,
+                "deg": 311
+            },
+            "sys": {
+                "country": "ES"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 59
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "muy nuboso",
+                    "icon": "04d"
+                }
+            ]
+        },
+        {
+            "id": 6355234,
+            "name": "Murcia",
+            "coord": {
+                "lat": 37.9866,
+                "lon": -1.1415
+            },
+            "main": {
+                "temp": 285.6,
+                "feels_like": 284.28,
+                "temp_min": 282.87,
+                "temp_max": 288.45,
+                "pressure": 1025,
+                "humidity": 53
+            },
+            "dt": 1645081982,
+            "wind": {
+                "speed": 1.34,
+                "deg": 257
+            },
+            "sys": {
+                "country": "ES"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 57
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "muy nuboso",
+                    "icon": "04d"
+                }
+            ]
+        },
+        {
+            "id": 2513416,
+            "name": "Murcia",
+            "coord": {
+                "lat": 37.987,
+                "lon": -1.13
+            },
+            "main": {
+                "temp": 285.56,
+                "feels_like": 284.24,
+                "temp_min": 282.81,
+                "temp_max": 288.39,
+                "pressure": 1025,
+                "humidity": 53
+            },
+            "dt": 1645081752,
+            "wind": {
+                "speed": 1.34,
+                "deg": 257
+            },
+            "sys": {
+                "country": "ES"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 57
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "muy nuboso",
+                    "icon": "04d"
+                }
+            ]
+        },
+        {
+            "id": 6362997,
+            "name": "Murcia",
+            "coord": {
+                "lat": 37.944,
+                "lon": -1.1636
+            },
+            "main": {
+                "temp": 285.61,
+                "feels_like": 284.24,
+                "temp_min": 282.81,
+                "temp_max": 288.39,
+                "pressure": 1025,
+                "humidity": 51
+            },
+            "dt": 1645081993,
+            "wind": {
+                "speed": 1.34,
+                "deg": 257
+            },
+            "sys": {
+                "country": "ES"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 62
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "muy nuboso",
+                    "icon": "04d"
+                }
+            ]
+        },
+        {
+            "id": 1699061,
+            "name": "Murcia",
+            "coord": {
+                "lat": 10.5833,
+                "lon": 123.1
+            },
+            "main": {
+                "temp": 302.63,
+                "feels_like": 303.89,
+                "temp_min": 302.63,
+                "temp_max": 302.63,
+                "pressure": 1006,
+                "humidity": 53,
+                "sea_level": 1006,
+                "grnd_level": 985
+            },
+            "dt": 1645081526,
+            "wind": {
+                "speed": 3.63,
+                "deg": 56
+            },
+            "sys": {
+                "country": "PH"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 73
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "muy nuboso",
+                    "icon": "04d"
+                }
+            ]
+        }
+    ]
+}
